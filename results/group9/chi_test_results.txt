@@ -1,0 +1,41 @@
+Amino acid: VAL, Observed value:64354, Expected value: 63569.96677660488, Standardized residual: 3.1096282571396645.
+VAL is significantly more likely to be in Alphahelix.
+Amino acid: GLN, Observed value:53733, Expected value: 45237.63810341084, Standardized residual: 39.94219460272847.
+GLN is significantly more likely to be in Alphahelix.
+Amino acid: ASP, Observed value:50294, Expected value: 66686.05274345799, Standardized residual: -63.476918693263876.
+ASP is significantly less likely to be in Alphahelix.
+Amino acid: THR, Observed value:53947, Expected value: 67697.81503499758, Standardized residual: -52.84952816876508.
+THR is significantly less likely to be in Alphahelix.
+Amino acid: LEU, Observed value:150110, Expected value: 108485.59093681828, Standardized residual: 126.37525689561659.
+LEU is significantly more likely to be in Alphahelix.
+Amino acid: TRP, Observed value:15513, Expected value: 11905.056492385314, Standardized residual: 33.06693932940356.
+TRP is significantly more likely to be in Alphahelix.
+Amino acid: ILE, Observed value:89868, Expected value: 74924.01287414315, Standardized residual: 54.59538963974758.
+ILE is significantly more likely to be in Alphahelix.
+Amino acid: SER, Observed value:77049, Expected value: 102786.29886994552, Standardized residual: -80.27777955697248.
+SER is significantly less likely to be in Alphahelix.
+Amino acid: GLY, Observed value:31829, Expected value: 57012.23362248116, Standardized residual: -105.46964066073495.
+GLY is significantly less likely to be in Alphahelix.
+Amino acid: GLU, Observed value:87658, Expected value: 74456.16642301052, Standardized residual: 48.38201122593187.
+GLU is significantly more likely to be in Alphahelix.
+Amino acid: ASN, Observed value:54084, Expected value: 70443.80174522597, Standardized residual: -61.63915030421394.
+ASN is significantly less likely to be in Alphahelix.
+Amino acid: LYS, Observed value:91505, Expected value: 83935.67358071153, Standardized residual: 26.126663040654726.
+LYS is significantly more likely to be in Alphahelix.
+Amino acid: PRO, Observed value:18292, Expected value: 50181.7542643273, Standardized residual: -142.35681177434583.
+PRO is significantly less likely to be in Alphahelix.
+Amino acid: HIS, Observed value:21331, Expected value: 24840.794088150455, Standardized residual: -22.268906955006788.
+HIS is significantly less likely to be in Alphahelix.
+Amino acid: CYS, Observed value:15567, Expected value: 14539.501041138947, Standardized residual: 8.52131537781085.
+CYS is significantly more likely to be in Alphahelix.
+Amino acid: ARG, Observed value:57172, Expected value: 50886.085863462955, Standardized residual: 27.865633526016353.
+ARG is significantly more likely to be in Alphahelix.
+Amino acid: TYR, Observed value:43752, Expected value: 38724.8371274077, Standardized residual: 25.54630871016293.
+TYR is significantly more likely to be in Alphahelix.
+Amino acid: ALA, Observed value:78736, Expected value: 62857.35819728911, Standardized residual: 63.33376257675847.
+ALA is significantly more likely to be in Alphahelix.
+Amino acid: MET, Observed value:28702, Expected value: 23837.30877679098, Standardized residual: 31.508423085309005.
+MET is significantly more likely to be in Alphahelix.
+Amino acid: PHE, Observed value:60158, Expected value: 50646.05343823989, Standardized residual: 42.26653026671011.
+PHE is significantly more likely to be in Alphahelix.
+The distribution of amino acids in Alphahelix is significantly different.
