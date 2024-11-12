@@ -8,7 +8,7 @@ This repository is a code wrapper for CBB520 assignment-2 project 6-10 in protei
 * For project 8 & 9, we also need stride installation, please follow the [instruction](https://webclu.bio.wzw.tum.de/stride/install.html) to install.
 
 ## Code & Folder structure
-The **data/** folder contains a list of file for the projects: `S288c_proteins` and `gossypii_protein_sequences.csv` are the input and metadata 
+The **data/** folder contains a list of input files for the projects: `S288c_proteins` and `gossypii_protein_sequences.csv` are the input and metadata 
 for project 6; `S288c_proteins`, `Ashbya_gossypii_proteome.faa.fasta` and `ashbya_Sc_orthologs` are the input and metadata for project 7;
 `UP000002311_559292_YEAST_v4` folder is the [Alphafold protein structures from S. cerevisiae](https://ftp.ebi.ac.uk/pub/databases/alphafold/latest/).
 The pdb files need to be unzipped with command: `gzip -d *.gz`.
